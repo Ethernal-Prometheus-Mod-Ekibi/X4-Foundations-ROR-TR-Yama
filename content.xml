@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<content id="ror_tr" name="Rise of the Ossian Raider Türkçe Yama" description="ROR Türkçe Yama" author="HeX" version="231" save="0" enabled="1" date="2023-29-05" sync="false" lastupdate="1662311021">
+<content id="ror_tr" name="Rise of the Ossian Raider Türkçe Yama" description="ROR Türkçe Yama" author="Ethernal" version="231" save="0" enabled="1" date="2023-29-05" sync="false" lastupdate="1662311021">
   <dependency id="ws_1705279348" optional="false" name="Rise of the Ossian Raider"/>
 </content>
