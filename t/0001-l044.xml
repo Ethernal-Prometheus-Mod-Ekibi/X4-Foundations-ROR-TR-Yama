@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <diff>
+  <add sel="/language">
+    <page id="99992001" title="RoR" descr="Text for new Names" voice="yes">
+		 <t id="1">Eski Antimadde Sürücüsü</t>
+		 <t id="2">Uzun bir süre boyunca M/AM sürücülerinin kullanımı mesaj dronları gibi çok küçük gemilerle sınırlıydı ('kalem zanaati' adı verilen kendinden tahrikli nesneler sınıfına ait). Bunun nedeni antimaddenin az bulunmasıydı. Ancak uzun süredir kayıp olan Dünya gezegeninden gelen gemiler daha büyük boyutlu M/AM sürücülerinin sürdürülebilir olduğunu kanıtladıktan sonra, antimaddenin seri üretimine yönelik araştırmalar başladı. Bir H'den -H'ye işleme tesisini pazarlayan ilk kişi mucit Ser-Alman Jonferson'du.\n \nBugün, birçok orta ve büyük boyutlu gemi M/AM sürücüleriyle donatılmıştır ve gezegenler arasındaki yolculukları, örneğin yönlendirilmiş füzyon tahrik sistemlerine kıyasla önemli ölçüde kısaltmaktadır.\n \nM/AM sürücüsü geleneksel bir reaksiyon tahrik motoru olarak kabul edilir.</t>
+		 <t id="3">Eski Antimadde Mk1</t>
+		 <t id="11">Antimadde Sürücüsü XL</t>
+		 <t id="13">Antimadde XL</t>
+		 <t id="14">Antimadde Sürücüsü L</t>
+		 <t id="15">Antimadde L</t>
+		 <t id="16">Antimadde Sürücüsü M</t>
+		 <t id="17">Antimadde M</t>
+		 <t id="18">Antimadde Sürücüsü S</t>
+		 <t id="19">Antimadde S</t>
+		 <t id="100">Antimadde XL Taret Mk1</t>
+		 <t id="101">Antimadde Tareti (ya da kısaca 'ANMAT') büyük yıkıcı gücünü mermilerinin kütlesinden alır. Daha küçük sistemlerin aksine, mermiler 'pelet' yerine 'küre' olarak adlandırılır. Kürelerin büyük çapı, sistemi küçük ya da orta boy gemilere monte etmek için kullanışsız hale getirmektedir- \n \nAteşleme hızı ve çıkış hızı, hedefleme hassasiyeti gibi çok düşüktür. Bu nedenle daha küçük hedeflere karşı hassas saldırılar söz konusu değildir, bu da ANMAT sisteminin ana uygulama alanı olarak büyük tesislere ve büyük gemilere karşı saldırıları bırakır.\n \n ANMAT'ın yıkıcı gücü sadece aşırı olarak adlandırılabilir; tek bir saldırıda tüm yüzey alanlarını yok edebilir.</t>
+		 <t id="102">ANMAT</t>
+		 <t id="103">Antimadde XL Taret Mk3</t>
+		 <t id="110">B-Ray Mk1</t>	
+		 <t id="111">Xenon'un muhteşem ön silahı. Bu silah nedeniyle Xenon R9 Sistem Yok Edici adını almıştır.</t>
+		 <t id="112">B-Ray</t>
+		 <t id="113">B-Ray Mk3</t>	
+		 <t id="114">B-Ray Mk1 AI</t>
+		 <t id="115">B-Ray Mk3 AI</t>		 
+		 <t id="120">TB Top Mk1</t>	
+		 <t id="121">Thunderbolt Topu, yüksek namlu çıkış hızlarında süper büyüklükte yoğun madde mermisi ateşler, bu da onun uzakta ve genişte bulunabilecek en yıkıcı silah sistemlerinden biri olmasına neden olur</t>.
+		 <t id="122">TB Topu</t>
+		 <t id="123">TB Cannon Mk3</t>
+		 <t id="130">SR Railgun Mk1</t>	
+		 <t id="131">Bu raylı tüfek hedefine önemli ve neredeyse anında hasar verir. Silahı şarj etmek, kullanıcının verilen hasar seviyesini belirlemesine izin verir ve yalnızca tetiği serbest bırakmak mermiyi gerçekten ateşler. Bu da Raylı Tüfeği çok etkili bir keskin nişancı silahı haline getirir.</t>
+		 <t id="132">Railgun SR</t>
+		 <t id="133">Railgun XL</t>
+		 <t id="140">Battlestar Ana Bataryası</t>
+		 <t id="141">Battlestar Galactica'nın (Exodus) ana silahı</t>.
+		 <t id="142">BSGM</t>
+		 <t id="143">Battlestar Ana Bataryası</t>
+		 <t id="150">Battlestar XL Topçu</t>
+		 <t id="151">Battlestar Galactica'nın (Exodus) topçu kulesi.</t>
+		 <t id="152">BSGA</t>
+		 <t id="153">Battlestar XL Topçu</t>
+		 <t id="160">Battlestar XL Fırlatıcı</t>
+		 <t id="161">Tek seferde 5 XL savaş başlığı ateşleyen XL füze fırlatıcısı.</t>
+		 <t id="162">BSGML</t>
+		 <t id="163">Battlestar XL Fırlatıcı</t>
+		 <t id="164">Battlestar XL Warhead</t>
+		 <t id="165">Nükleer olmayan bir savaş başlığına sahip tahrip torpidosu.</t>
+		 
+		 <t id="200">Taranis</t>
+		 <t id="201">(Taranis)(Mk1){29101,4201} {20111,101}</t>
+		 <t id="202">(Taranis)(Mk2){29101,4201} {20111,201}</t>
+		 <t id="203">(Taranis)(Mk3){29101,4201} {20111,301}</t>
+		 <t id="204">(Taranis)(Mk4){29101,4201} {20111,401}</t>
+		 <t id="205">(Taranis)(Mk5){29101,4201} {20111,501}</t>
+		 <t id="209">Plutarch Mining Corporation \(PMC\) bu tip bir destroyeri ilk kez hizmete soktuğunda, sınıfında Taranis'in devasa cephaneliği ve güçlü taretleriyle rekabet edebilecek başka pek fazla gemi yoktu. Bazıları tarafından manevra kabiliyeti açısından biraz hantal olarak görülse de, bu klasik destroyer ağır bir vurucudur - Taranis'i uçuran savaş pilotları arasında yaygın bir deyiş "tuğla gibi uçar, bıçak gibi öldürür" şeklindedir. Genelde tartışmalı sınırlar ve benzeri bölgelerde devriye gezmek için kullanılsa da, bu gemi savaşa yabancı değildir. Büyük bir taktiksel değere sahiptir ve diğer üreticiler tarafından kopyalanmıştır</t>.
+		 <t id="210">Arawn</t>
+		 <t id="211">(Arawn)(Mk1){29101,4101} {20111,101}</t>
+		 <t id="212">(Arawn)(Mk2){29101,4101} {20111,201}</t>
+		 <t id="213">(Arawn)(Mk3){29101,4101} {20111,301}</t>
+		 <t id="219">Aragon fraksiyonu tarafından şu anda hizmette olan en büyük gemilerden biri olan Arawn, Argon Prime'da tasarlanan ve ilk kez denize indirilen son derece gelişmiş bir taşıyıcıdır. Plazma ve parçacık silahlarının yanı sıra çok amaçlı dronlar da dahil olmak üzere kapsamlı silah dizisi ona tüm taktik durumlarda üstünlük sağlar.</t>
+		 <t id="220">Sucellus</t>
+		 <t id="221">(Sucellus)(Mk1){29101,4801} {20111,101}</t>
+		 <t id="222">(Sucellus)(Mk2){29101,4801} {20111,201}</t>
+		 <t id="223">(Sucellus)(Mk3){29101,4801} {20111,301}</t>
+		 <t id="229">Sucellus nadiren ciddi bir savaş görse de, Canteran halkı için bir güvenlik sembolü olarak görülmeye başlanmıştır. Terran döneminin en iyi korunan kalıntılarından biri olan bu gemi, hem Canteranlara hem de Reiver'lara güçlü bir görsel varlık sağlamak için genellikle istasyonların yakınında devriye gezer. Sucellus'un hızlanması ortalama düzeydedir ve çevikliği, vasatın altındaki tutum iticileri tarafından ciddi şekilde engellenir. Tüm bunlara rağmen, bu gemiyi bir süre 	uçuran pilotlar genellikle güvenilirliği nedeniyle onu sevmeye başlarlar</t>.
+		 <t id="230">Albatross Savaş Gemisi</t>
+		 <t id="231">(Albatros)(Savaş Gemisi)(Mk1){29101, 14003} {20221, 5031} {20111,101}</t>
+		 <t id="232">(Albatros)(Savaş Gemisi)(Mk2){29101, 14003} {20221, 5031} {20111,201}</t>
+		 <t id="233">(Albatros)(Freedom Carrier)(Mk3){29101, 14003} {99992009, 3001} {20111,301}</t>
+		 <t id="239">Teladi Albatros'un yeniden tasarlanması söz konusu olduğunda, temel yapı yeni bir savaş gemisi yaratmak için kullanıldı. Albatros'a, saldırı sırasında gemiyi güçlendirmek için yeni tasarlanmış kubbeli gövde vermenin yanı sıra. Ayrıca kalkanlar da tamamen yeniden tasarlandı</t>.
+		 <t id="240">Poseidon</t>
+		 <t id="241">(Poseidon)(Mk1){20101,32201} {20111,101}</t>
+		 <t id="242">(Poseidon)(Mk2){20101,32201} {20111,201}</t>
+		 <t id="243">(Poseidon)(Mk3){20101,32201} {20111,301}</t>
+		 <t id="249">Xenonlarla yapılan savaşta, kitlesel Xenon filolarına cevap verebilmek için yeni bir savaş gemisine ihtiyaç vardı. Ve böylece Poseidon Özgürlük gemisi doğdu. Daha güçlü bir gövdeye ve daha fazla kalkana sahiptir ve Xenon I'e veya Teladi'nin yeni amiral gemisine karşı bile karşılaştırılabilir.</t>
+		 <t id="260">Eos</t>
+		 <t id="261">(Eos)(Mk1){20101,32901} {20111,101}</t>
+		 <t id="263">(Eos)(Mk3){20101,32901} {20111,301}</t>
+		 <t id="269">Xenon ile yapılan savaşta, kitlesel Xenon filolarına cevap verebilmek için yeni bir savaş gemisine ihtiyaç vardı. </t>
+		 <t id="270">Bayamon 100</t>
+		 <t id="271">(Bayamon 100)(Mk1){20101,80201} {99992009,100} {20111,101}</t>
+		 <t id="273">(Bayamon 100)(Mk3){20101,80201} {99992009,100} {20111,301}</t>
+		 <t id="279">Devam eden küresel savaşla birlikte korsanlar gemi parçaları çalmaya ve yeni bir büyük gemi inşa etmeye başladılar. Bu geminin ana amacı ticaret yapmak, hırsızlık yapmak, savaşmak ve korsan üssünü korumaktır. </t>		 
+		 <t id="280">Prometheus</t>
+		 <t id="288">(Prometheus) {20101,32601}</t>
+		 <t id="290">Astraeus</t>
+		 <t id="291">(Astraeus)(Mk1){20101,33001} {20111,101}</t>
+		 <t id="293">(Astraeus)(Mk3){20101,33001} {20111,301}</t>
+		 <t id="298">(Astraeus) {20101,33001}</t>
+		 <t id="299">Antigone Savaş Gemisi</t>
+		 <t id="300">Bilinmeyen Gemi</t>
+		 <t id="308">(Bilinmeyen Gemi) {29109,5101} </t>
+		 <t id="309">Bir yıkım yolu bırakması dışında bu gemi hakkında hiçbir şey bilinmiyor.</t>
+		 <t id="310">Eternal Dawn</t>
+		 <t id="311">(Eternal Dawn)(Mk1){99992009,92} {20111,101}</t>
+		 <t id="313">(Eternal Dawn)(Mk3){99992009,92} {20111,301}</t>
+		 <t id="318">(Eternal Dawn) {99992009,92} </t>
+		 <t id="319">Ossian Raider Amiral Gemisi.</t>
+		 <t id="320">Sanctuary</t>
+		 <t id="321">(Sanctuary)(Mk1){99992009,126} {20111,101}</t>
+		 <t id="323">(Sanctuary)(Mk3){99992009,126} {20111,301}</t>
+		 <t id="328">(Sanctuary) {99992009,126} </t>
+		 <t id="329">Ossian Raider Saldırı Gemisi </t>
+		 <t id="330">Eternity</t>
+		 <t id="338">(Eternity) {99992009,319} </t>
+		 <t id="339">(Eternity) {99992009,319} </t>
+		 <t id="340">Eureka Eight</t>
+		 <t id="341">(Eureka Eight)(Mk1){99992009,332} {20111,101} </t>
+		 <t id="343">(Eureka Eight)(Mk3){99992009,332} {20111,301} </t>
+		 <t id="348">(Eureka Eight) {99992009,332} </t>
+		 <t id="349">Ossian Raider varsayılan Savaş Gemisi</t>
+		 <t id="350">Exodus</t>
+		 <t id="351">(Exodus)(Mk1){99992009,425} {20111,101}</t>
+		 <t id="353">(Exodus)(Mk3){99992009,425} {20111,301}</t>
+		 <t id="354">(Exodus)(Mk4){99992009,425} {20111,401}</t>
+		 <t id="355">(Exodus)(Mk5){99992009,425} {20111,501}</t>
+		 <t id="358">(Exodus) {99992009,425} </t>
+		 <t id="359">Battlestar Galactica</t>
+		 <t id="360">Allegiance</t>
+		 <t id="368">(Allegiance) {99992009,429} </t>
+		 <t id="370">Lynx</t>
+		 <t id="371">(Lynx)(Mk1){20101,42301} {20111,101}</t>
+		 <t id="373">(Lynx)(Mk3){20101,42301} {20111,301} </t>
+		 <t id="374">(Lynx)(Mk4){20101,42301} {20111,401} </t>
+		 <t id="379">Split Battleship</t>
+		 <t id="380">Rising Star</t>
+		 <t id="381">(Rising Star)(Mk1){20005,33} {20111,101}</t>
+		 <t id="383">(Rising Star)(Mk3){20005,33} {20111,301} </t>
+		 <t id="389">Battleship</t>
+		 <t id="390">Fourty Two</t>
+		 <t id="391">(Fourty Two)(Mk1){20005,48} {20111,101}</t>
+		 <t id="393">(Fourty Two)(Mk3){20005,48} {20111,301} </t>
+		 <t id="399">Battleship</t>
+		 <t id="390">The Vindicator</t>
+		 <t id="391">(The Vindicator)(Mk1){20005,80} {20111,101}</t>
+		 <t id="393">(The Vindicator)(Mk3){20005,80} {20111,301} </t>
+		 <t id="399">Battleship</t>
+		 <t id="400">Solitude</t>
+		 <t id="401">(Solitude)(Mk1){20005,90} {20111,101}</t>
+		 <t id="403">(Solitude)(Mk3){20005,90} {20111,301} </t>
+		 <t id="409">Battleship</t>
+		 <t id="410">Tempest</t>
+		 <t id="411">(Tempest)(Mk1){20005,474} {20111,101}</t>
+		 <t id="413">(Tempest)(Mk3){20005,474} {20111,301} </t>
+		 <t id="419">Battleship</t>
+		 <t id="410">SR2</t>
+		 <t id="411">(S)(R)(2){20101,70401}{20101,71201}{20404,2} </t>
+		 <t id="413">(S)(R)(2){20101,70401}{20101,71201}{20404,2} </t>
+		 <t id="419">Destoryer</t>
+		 <t id="420">Valhalla</t>
+		 <t id="421">(Valhalla)(Mk1){20101,65401} {20111,101} </t>
+		 <t id="423">(Valhalla)(Mk3){20101,65401} {20111,301} </t>
+		 <t id="429">Terran Savaş Gemisi</t>
+		 <t id="430">Valkyrie</t>
+		 <t id="431">(Valkyrie)(Mk1){20101,66201} {20111,101} </t>
+		 <t id="433">(Valkyrie)(Mk3){20101,66201} {20111,301} </t>
+		 <t id="434">(Valkyrie)(Mk4){20101,66201} {20111,401}</t>
+		 <t id="435">(Valkyrie)(Mk5){20101,66201} {20111,501}</t>
+		 <t id="439">Daha az silahı olan ancak daha yüksek hıza sahip daha küçük Battlestar.</t>
+		 <t id="440">Viper</t>
+		 <t id="441">(Viper)(Mk1){20101,41501} {20111,101} </t>
+		 <t id="442">(Viper)(Mk2){20101,41501} {20111,201} </t>
+		 <t id="445">(Viper)(M)(K)(7){20101,41501} {20101,70201}{20101,70501}{20404,7}</t>
+		 <t id="449">Battlestar taşıyıcıları tarafından sıklıkla kullanılan tipik bir avcı sınıfı gemi.</t>
+
+		 			 
+	 </page>
+	 <page id="99992002" title="Flagships" descr="Text for new flagships" voice="yes">
+		 <t id="100">Flagship</t>
+		 <t id="101">Guard</t>
+		 <t id="102">Invader</t>
+		 <t id="103">Defender</t>
+		 <t id="104">Expedition</t>
+		 <t id="105">Battleship</t>
+		 <t id="106">Escort</t>
+		 <t id="107">Devriye</t>
+		 <t id="108">Görev Gücü</t>
+		 <t id="230">Albatros Koruyucu</t>
+		 <t id="231">(Albatros Koruyucu)(Mk1){29101, 14003} {20101,90201} {20111,101}</t>
+		 <t id="233">(Albatros Koruyucu)(Mk3){29101, 14003} {20101,90201} {20111,301}</t>
+		 <t id="239">Albatros Koruyucu</t>
+		 <t id="240">Poseidon Koruyucu</t>
+		 <t id="241">(Poseidon Protector)(Mk1){20101,32201} {20101,90201} {20111,101}</t>
+		 <t id="243">(Poseidon Koruyucu)(Mk3){20101,32201} {20101,90201} {20111,301}</t>
+		 <t id="249">Poseidon Koruyucu</t>
+		 <t id="250">R9 Sistem Yok Edici</t>
+		 <t id="251">(R9 Sistem Destroyer)(Mk1){20101,71201}{20404,9} {20001,101} {20221,4001} {20111,101}</t>
+		 <t id="253">(R9 Sistem Destroyer)(Mk3){20101,71201}{20404,9} {20001,101} {20221,4001} {20111,301}</t>
+		 <t id="259">Xenon R, Xenon'un yeni Amiral Gemisi. Göründüğü her yerde korku ve panik yayılıyor. Şimdiye kadar bilinen hiçbir gemi ona karşı hayatta kalamadı</t>.
+		 <t id="260">Eos Koruyucu</t>
+		 <t id="261">(Eos Protector)(Mk1){20101,32901} {20101,90201} {20111,101}</t>
+		 <t id="263">(Eos Protector)(Mk3){20101,32901} {20101,90201} {20111,301}</t>
+		 <t id="269">Eos Koruyucu</t>
+		 <t id="270">Bayamon 100 Koruyucu</t>
+		 <t id="271">(Bayamon 100)(Koruyucu)(Mk1){20101,80201} {20101,90201} {20111,101}</t>
+		 <t id="273">(Bayamon 100)(Koruyucu)(Mk3){20101,80201} {20101,90201} {20111,301}</t>
+		 <t id="279">Bayamon 100 Koruyucu</t>
+		 <t id="310">Eternal Dawn Koruyucusu</t>
+		 <t id="311">(Eternal Dawn)(Protector)(Mk1){99992009,92} {20101,90201} {20111,101}</t>
+		 <t id="313">(Eternal Dawn)(Protector)(Mk3){99992009,92} {20101,90201} {20111,301}</t>
+		 <t id="318">(Eternal Dawn) {99992009,92} </t>
+		 <t id="319">Ossian Raider Amiral Gemisi.</t>
+		 <t id="320">Sanctuary Koruyucusu</t>
+		 <t id="321">(Sanctuary)(Protector)(Mk1){99992009,126} {20101,90201} {20111,101}</t>
+		 <t id="323">(Sanctuary)(Protector)(Mk3){99992009,126} {20101,90201} {20111,301}</t>
+		 <t id="328">(Sanctuary) {99992009,126} </t>
+		 <t id="329">Ossian Raider Saldırı Gemisi </t>
+		 <t id="330">Lynx Koruyucu</t>
+		 <t id="331">(Lynx Protector)(Mk1){20101,42301} {20101,90201} {20111,101}</t>
+		 <t id="333">(Lynx Protector)(Mk3){20101,42301} {20101,90201} {20111,301}</t>
+		 <t id="339">Lynx Koruyucu</t>
+		 <t id="340">Astraeus Koruyucu</t>
+		 <t id="341">(Astraeus Protector)(Mk1){20101,33001} {20101,90201} {20111,101}</t>
+		 <t id="343">(Astraeus Protector)(Mk3){20101,33001} {20101,90201} {20111,301}</t>
+		 <t id="349">(Astraeus Koruyucu)</t>
+		 <t id="350">Exodus Koruyucu</t>
+		 <t id="351">(Exodus Protector)(Mk1){99992009,425} {20101,90201} {20111,101}</t>
+		 <t id="353">(Exodus Protector)(Mk1){99992009,425} {20101,90201} {20111,301}</t>
+		 <t id="359">(Exodus Koruyucusu)</t>
+		 <t id="360">Valhalla Koruyucusu</t>
+		 <t id="361">(Valhalla Protector)(Mk1){20101,65401} {20101,90201} {20111,101}</t>
+		 <t id="363">(Valhalla Protector)(Mk1){20101,65401} {20101,90201} {20111,301}</t>
+		 <t id="369">(Valhalla Koruyucusu)</t>
+		 
+		 <t id="500">Bilinmeyen İstasyon</t>
+		 <t id="501">(ORA Bilinmeyen İstasyon){29101,9501} {20111,1001} {20102,5001}</t>
+		 <t id="502">(Terran)(Bilinmeyen İstasyon){20202,701} {20102,5001}</t>
+		 <t id="503">Savunma Platformu</t>
+		 <t id="504">(ORA Savunma Platformu){29101,9501} {20111,1001} {1001,9802}</t>
+		 <t id="505">(Terran Savunma Platformu){20202,701} {1001,9802}</t>
+		 <t id="506">Omega</t>
+		 <t id="507">(Omega){20202,701} {20401,24}</t>
+		 <t id="509">ORA Bilinmeyen İstasyon</t>
+		 <t id="510">Ticaret İstasyonu</t>
+		 
+		 <t id="600">ROR Mod Ayar Odası</t>
+		 <t id="601">Fraksiyon Temsilci Odası</t>
+		 <t id="602">Shady Bar</t>
+		 <t id="603">Komuta Odası</t>
+		 <t id="604">Savaş Bilgi Merkezi</t>
+		 <t id="605">Amiral Mahallesi</t>
+		 
+		 <t id="700">ROR Mod Ayarları: Daha fazla ayrıntı için lütfen brifingi açın.</t>
+		 <t id="701">Bu Ossian Raider Modunun kısa bir açıklamasıdır.\nBu görevi takip ederseniz, Mod Ayarı NPC'sine ulaşırsınız. Onunla konuşun ve mod ayarlarını tanımlayın.\nŞu anda aşağıdaki ayarlar mevcuttur:\n\n{99992002,702}</t>
+		 <t id="702">\033CSektör Görevleri\033X:\nVarsayılan olarak devre dışıdır. Bunu etkinleştirirseniz, Ossian Raider(OSR) küçük istila gemileri inşa etmeye başlar ve vanilya fraksiyon mantığıyla diğer sektörleri fethetmeye çalışır.\n\033Cİleri Sektör Devralma\033X:\nVarsayılan devre dışı.\nHer 4 saatte bir OSR kullanılmayan XL gemilerini toplayacak ve daha hızlı sektör ele geçirme için istasyonları avlayacaktır. \n\n{99992002,703}</t>
+		 <t id="703">\033CAmiral Gemileri Mk1\033X:\nVarsayılan devre dışı.\nBunu Xenon R9 ve OSR Sanctuary'nin Mk1 İstila Filoları için etkinleştirin. Her Fraksiyon savunmak için kendi Mk1 Amiral Gemisini inşa etmelidir.\nBu galaksi için bir tehdit, ılımlı bir filoya ihtiyacınız var, hazırlıklı olun!\n\n{99992002,704}</t>
+		 <t id="704">\033CAmiral Gemileri Mk3\033X:\nVarsayılan devre dışı.\nAmiral Gemileri Mk1 ile aynı ancak Mk3 gemileri ile.\n\033R!!!\033XUYARI\033R!!!\033X Galaksi tehlikeli bir yer haline geliyor, büyük bir filo ile hazırlıklı olun!\n\n{99992002,705}</t>
+		 <t id="705">\033CZorluk\033X:\nVarsayılan çok kolaydır.\n6 zorluğa bölünmüştür. Unutmayın, eğer zoru kolaya çevirirseniz, tüm amiral gemileri yok edilir, ancak normal gemiler yok edilmez.\n\n{99992002,706}</t>
+		 <t id="706">\033BÇok Kolay\033X:\nİşgaller devre dışı, OSR'nin sadece sektörlerini terk etmemesi gereken savunma filoları var. Hiçbir şey yapmayacaklar.\n\n{99992002,707}</t>
+		 <t id="707">\033GKolay\033X:\nOSR artık İnşaat Gemisi, S Keşif Aracı ve M Savaşçısı inşa edebilir. Bazı M Savaşçıları ile istila edebilirler.\n\n{99992002,708}</t>
+		 <t id="708">\033WNormal\033X:\nOSR bazı L ve bir mk1 Invader XL gemisi inşa edebilir, bu diğer vanilya fraksiyonları gibidir. Sektörler biraz daha fazla mk1 XL gemisi ile korunacak.\n\n{99992002,709}</t>
+		 <t id="709">\033YZor\033X:\nBu normalin bir üstü gibidir ancak daha fazla L ve XL istilacı gemisi vardır. Amiral Gemileri mk1 de etkinleştirildi.\n\n{99992002,710}</t>
+		 <t id="710">\033RÇok Zor\033X:\nBu zorun bir üstü gibidir, ancak Amiral Gemileri mk1 yerine mk3 etkinleştirilir.\n\n{99992002,711}</t>
+		 <t id="711">\033Rİmkansız\033X:\nBu, daha fazla geminin ve hem Amiral Gemileri mk1 hem de mk3'ün etkinleştirildiği bir kombinasyondur. Bazı zorluklar arıyorsanız bu oyun sonu içindir. Belki performansınıza zarar verebilir.\n\n{99992002,712}</t>
+		 <t id="712">Bu seçeneklerle bazı kombinasyonlar ayarlayabilirsiniz. Örneğin: mk1 amiral gemileri ile çok kolay zor. Bu, pasif OSR fraksiyonu ile sonuçlanacaktır, ancak R9 ve Sanctuary istilaları ile.\nEğer Mk1 veya Mk3 Amiral Gemilerini devre dışı bırakırsanız, ai amiral gemileri silinir. Eğer şu anda bazı amiral gemileri inşa ediliyorsa, gemiler inşa edildikten sonra bunlardan birini tekrar devre dışı bırakmanız gerekir.\n\n{99992002,713}</t>
+		 <t id="713">\033CDiğer Özellikler\033X: \n{99992002,714}</t>
+		 <t id="714">NPC'de ek olarak etkinleştirebileceğiniz şeyler: oyun içi hata ayıklama mesajları, debug.log'daki Ossian Akıncısı raporu ve amiral gemisi istila mesajları.\n\n{99992002,715}</t>
+		 <t id="715">XL tersanelerine bazı yeni fraksiyonlar, gemiler, motorlar, taretler ekler ve yeni gemiler için kapıları yeniden boyutlandırır.   \n\n{99992002,716}</t>
+		 <t id="716"> \n\n{99992002,717}</t>
+		 <t id="717">Son</t>
+		 
+		 <t id="720">ROR Mod Güncellemesi: Daha fazla ayrıntı için lütfen brifingi açın.</t>
+		 <t id="721">Sürüm:\033G 2.3X \033X\n\n\{99992002,722}</t>
+		 <t id="722">SR2 ve Lynx bileşenleri güncellendi. Bu gemilere sahipseniz, lütfen satıp yenilerini satın alın/inşa edin.\n \n\n{99992002,723}</t>
+		 <t id="723">\033BDostça Hatırlatma\033X: \nKorkunç Xenon R9, OSR Eternal Dawn ve Sanctuary'nin ortaya çıkmasını ve galaksiye biraz kaos getirmesini istiyorsanız, zorluğu zor veya daha yükseğe çıkarmanız veya mod npc'sinde Amiral Gemileri Mk1 veya Mk3'ü etkinleştirmeniz gerekir. </t>
+		 
+		 <t id="800">Ironscale \({20110,102021} - Mk1\)</t>
+		 <t id="801">Ironscale Mk1</t>
+		 <t id="802">Ironscale \({20110,102021} - Mk2\)</t>
+		 <t id="803">Ironscale Mk2</t>
+		 <t id="810">Stormshield \({20110,103001} - Mk1\)</t>
+		 <t id="811">Stormshield Mk1</t>
+		 <t id="812">Stormshield \({20110,103001} - Mk2\)</t>
+		 <t id="813">Stormshield Mk2</t>
+		 <t id="820">Lightbreaker \({20110,101001} - Mk1\)</t>
+		 <t id="821">Lightbreaker Mk1</t>
+		 <t id="830">Surrender \({20110,100001} - Mk1\)</t>
+		 <t id="831">Surrender Mk1</t>
+		 
+		 
+		 
+		 <t id="909">Ossian Akıncısı</t>
+		 <t id="919">Terran Trader Corp</t>
+		 
+		 <t id="1000">Bilinmeyen Sinyal</t>
+		 <t id="1001">Bu istasyonun garip bir sinyal aldığına dair bazı söylentiler duydum.\nBu istasyonun gerçek sahibiyle konuşmalısınız.\nOnun gerçekten karanlık bir adam olduğunu söylemek abartılı olmaz, dikkatli olun!\nAncak daha fazlasını öğrenmek için ondan kaçmanın bir yolu yok. </t>
+		 <t id="2000">Terran Tüccar Bölüm 1</t>
+		 <t id="2001">Aylar önce bu sisteme vardık.\nTerranlar diğer gruplara karşı biraz iletişimsizdi.\nBen de öyleydim, ancak tutumumuzu yeniden gözden geçirmenin zamanı geldi.\nBazı önemli kişilerle konuşmanızı istiyorum, bazıları Terran Konseyinde.\nHerkesi ikna etmek için nazik ve politik olmalısınız.\nKesinlikle buna değecektir.</t>
+		 
+	 </page>
+	 
+	 <page id="99992003" title="SN API" descr="Text for menu" voice="yes">
+		<t id="1">Rise of the Ossian Raider</t>
+		<t id="10">Zorluk</t>
+		<t id="100">\033AÇok Kolay - OSR fraksiyonu devre dışı\033X</t>
+		<t id="101">\033GKolay\033X</t>
+		<t id="102">\033WNormal\033X</t>
+		<t id="103">\033YZor\033X</t>
+		<t id="104">\033RÇok zor\033X</t>
+		<t id="105">\033Rİmkansız\033X</t>
+		<t id="110">Ossian Raider sektörlerine açılan kapı</t>
+		<t id="111">Amiral Gemileri MK1</t>
+		<t id="112">Amiral Gemileri MK3</t>
+		<t id="113">Amiral gemileri bilgi mesajları</t>
+		<t id="114">Geliştirilmiş Sektör Devralma</t>
+	 </page> 
+	 
+	 <page id="99992009" title="Additionals" descr="" voice="yes">
+		 <t id="92">Eternal Dawn</t>
+		 <t id="100">100</t>
+		 <t id="126">Sanctuary</t>
+		 <t id="332">Eureka Eight</t>
+		 <t id="425">Exodus</t>
+		 <t id="3001">Freedom Carrier</t>
+	 </page> 
+	 
+	 <page id="99993001" title="RoR VRO" descr="Internal Shields" voice="no">
+		<t id="13901">zXL - Taranis Mk1 Dahili Jeneratör</t>
+		<t id="13902">zXL - Taranis Mk3 Dahili Jeneratör</t>
+		<t id="13903">zXL - Arawn Mk1 Dahili Jeneratör</t>
+		<t id="13904">zXL - Arawn Mk3 Dahili Jeneratör</t>
+		<t id="13905">zXL - Sucellus Mk1 Dahili Jeneratör</t>
+		<t id="13906">zXL - Sucellus Mk3 Dahili Jeneratör</t>
+		<t id="13907">zXL - Albatross Mk1 Dahili Jeneratör</t>
+		<t id="13908">zXL - Albatross Mk3 Dahili Jeneratör</t>
+		<t id="13909">zXL - Albatross Mk1 Flagship Dahili Jeneratör</t>
+		<t id="13910">zXL - Albatross Mk3 Flagship Dahili Jeneratör</t>
+		<t id="13911">zXL - Poseidon Mk1 Dahili Jeneratör</t>
+		<t id="13912">zXL - Poseidon Mk3 Dahili Jeneratör</t>
+		<t id="13913">zXL - Poseidon Mk1 Flagship Dahili Jeneratör</t>
+		<t id="13914">zXL - Poseidon Mk3 Flagship Dahili Jeneratör</t>
+		<t id="13915">zXL - R Mk1 Dahili Jeneratör</t>
+		<t id="13916">zXL - R Mk3 Dahili Jeneratör</t>
+		<t id="13917">zXL - Bayamon Mk1 Dahili Jeneratör</t>
+		<t id="13918">zXL - Bayamon Mk3 Dahili Jeneratör</t>
+		<t id="13919">zXL - Bayamon Mk1 Flagship Dahili Jeneratör</t>
+		<t id="13920">zXL - Bayamon Mk3 Flagship Dahili Jeneratör</t>
+		<t id="13921">zXL - Eternal Dawn Mk1 Dahili Jeneratör</t>
+		<t id="13922">zXL - Eternal Dawn Mk3 Dahili Jeneratör</t>
+		<t id="13923">zXL - Eternal Dawn Mk1 Flagship Dahili Jeneratör</t>
+		<t id="13924">zXL - Eternal Dawn Mk3 Flagship Dahili Jeneratör</t>
+		<t id="13925">zXL - Eureka Mk1 Dahili Jeneratör</t>
+		<t id="13926">zXL - Eureka Mk3 Dahili Jeneratör</t>
+		<t id="13927">zXL - Sanctuary Mk1 Dahili Jeneratör</t>
+		<t id="13928">zXL - Sanctuary Mk3 Dahili Jeneratör</t>
+		<t id="13929">zXL - Sanctuary Mk1 Flagship Dahili Jeneratör</t>
+		<t id="13930">zXL - Sanctuary Mk3 Flagship Dahili Jeneratör</t>
+		<t id="13931">zXL - Eos Mk1 Dahili Jeneratör</t>
+		<t id="13932">zXL - Eos Mk3 Dahili Jeneratör</t>
+		<t id="13933">zXL - Eos Mk1 Flagship Dahili Jeneratör</t>
+		<t id="13934">zXL - Eos Mk3 Flagship Dahili Jeneratör</t>
+		<t id="13935">zXL - Lynx Mk1 Dahili Jeneratör</t>
+		<t id="13936">zXL - Lynx Mk3 Dahili Jeneratör</t>
+		<t id="13937">zXL - Lynx Mk1 Flagship Dahili Jeneratör</t>
+		<t id="13938">zXL - Lynx Mk3 Flagship Dahili Jeneratör</t>
+		<t id="13939">zXL - Astraeus Mk1 Dahili Jeneratör</t>
+		<t id="13940">zXL - Astraeus Mk3 Dahili Jeneratör</t>
+		<t id="13941">zXL - Astraeus Mk1 Flagship Dahili Jeneratör</t>
+		<t id="13942">zXL - Astraeus Mk3 Flagship Dahili Jeneratör</t>
+		<t id="13943">zXL - Exodus Mk1 Dahili Jeneratör</t>
+		<t id="13944">zXL - Exodus Mk3 Dahili Jeneratör</t>
+		<t id="13945">zXL - Exodus Mk1 Flagship Dahili Jeneratör</t>
+		<t id="13946">zXL - Exodus Mk3 Flagship Dahili Jeneratör</t>
+		<t id="13947">zL - SR2 Dahili Jeneratör</t>
+		<t id="13951">IG XL - Mk1 Dahili Jeneratör</t>
+		<t id="13953">IG XL - Mk3 Dahili Jeneratör</t>
+		<t id="13955">IG XL OSR - Mk1 Dahili Jeneratör</t>
+		<t id="13957">IG XL OSR - Mk3 Dahili Jeneratör</t>
+	 </page> 
+	 
+	 <page id="99994001" title="RoR mk4" descr="ROR mk4" voice="no">
+		
+		<t id="101">IG XL - Mk4 Dahili Jeneratör</t>
+		<t id="200">BSG XL Flak eski</t>
+		<t id="201">Battlestar Galactica'nın (Exodus) eski uçaksavar tareti</t>
+		<t id="202">BSGF eski</t>
+		<t id="203">Battlestar XL Flak eski</t>
+	 </page> 
+
+  </add>
+  <add sel="/language">
+<!-- <add sel="/language/page[@id='20104']"> -->
+  <page id="20104" title="Surface Elements" descr="Text for Surface Elements" voice="yes">
+		<t id="1201">Antimadde Sürücüsü</t>
+		<t id="1202">Uzun bir süre boyunca M/AM sürücülerinin kullanımı mesaj dronları gibi çok küçük gemilerle sınırlıydı ('kalem gemisi' adı verilen kendinden tahrikli nesneler sınıfına ait). Bunun nedeni antimaddenin az bulunmasıydı. Ancak uzun süredir kayıp olan Dünya gezegeninden gelen gemiler daha büyük boyutlu M/AM sürücülerinin sürdürülebilir olduğunu kanıtladıktan sonra, antimaddenin seri üretimine yönelik araştırmalar başladı. Bir H'den -H'ye işleme tesisini pazarlayan ilk kişi mucit Ser-Alman Jonferson'du.\n \nBugün, birçok orta ve büyük boyutlu gemi M/AM sürücüleriyle donatılmıştır ve gezegenler arasındaki yolculukları, örneğin yönlendirilmiş füzyon tahrik sistemlerine kıyasla önemli ölçüde kısaltmaktadır.\n \nM/AM sürücüsü geleneksel bir reaksiyon tahrik motoru olarak kabul edilir.</t>
+		<t id="1203">Antimadde Mk1</t>
+		</page> 
+  </add>
+	 
+	 <!--
+	<page id="20111" title="Nesne Varyasyonları" descr="Nesne varyasyonlarının adları ve açıklamaları" voice="yes">
+		 <t id="101">Mk1</t>
+		 <t id="201">Mk2</t>
+		 <t id="301">Mk3</t>
+		 <t id="401">Mk4</t>
+		 <t id="501">Mk5</t>
+		 <t id="1001">Raider</t>
+		 <t id="3001">XL</t>
+	 </page>
+	-->
+  
+
+</diff>
+
+
+
+
